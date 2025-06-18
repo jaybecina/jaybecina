@@ -1,6 +1,9 @@
-<!-- Animated headline using SVG -->
+<h1 align="center">👋 Hey, I'm giuseppe Jay Becina — aka Jay 🧑‍💻💪</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jay!;Next.js+%7C+React+%7C+Node.js+Enthusiast;Building+cool+things+every+day!+🚀" alt="Typing SVG" />
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%7C+Next.js+%2B+React.js+%2B+Node.js;React+Native+Enthusiast+📱;Muay+Thai+%26+Fitness+Lover+💪🥊;Lifelong+learner+and+builder+💡" alt="Jay Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
