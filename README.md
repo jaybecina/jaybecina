@@ -11,6 +11,12 @@
 
 ### 🧰 Tech Stack
 
+Main:
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
 - **Frontend**: React.js · Next.js · React Native · Tailwind CSS · TypeScript  
 - **Backend**: Node.js · Express.js · Supabase · Firebase · MongoDB · PostgreSQL  
 - **Tools**: Git · Docker · Vercel · AWS · Digitalocean · Postman · Figma · VSCode  
