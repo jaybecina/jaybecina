@@ -1,6 +1,7 @@
 <!-- Animated headline using SVG -->
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jay!;Next.js+%7C+React+%7C+Node.js+Enthusiast;Building+cool+things+every+day!+🚀)
-
+</p>p>
 
 <p align="center">
   👨‍💻 Passionate about building modern web & mobile apps with <strong>Next.js</strong>, <strong>React.js</strong>, <strong>React Native</strong>, and <strong>Node.js</strong>.
