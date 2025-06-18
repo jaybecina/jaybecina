@@ -23,16 +23,6 @@ Main:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠️ Projects You Might Like
 
 - 🔗 [**My Next.js Portfolio**](https://jaybecina-portfolio-gatsby.netlify.app) – Modern portfolio built with Gatsby.js, Tailwind CSS, and Framer Motion  
