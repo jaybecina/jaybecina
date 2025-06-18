@@ -1,11 +1,12 @@
-<h1 align="center">👋 Hey, I'm giuseppe Jay Becina — aka Jay 🧑‍💻</h1>
+<h1 align="center" style="font-family: Fira Code;">👋 Hey, I'm Jay — JavaScript Framework Enthusiast 💻</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+JS+Enthusiast+📱;Fitness+Lover+💪;Lifelong+learner+and+builder+💡)
+<h3 align="center">
+  Passionate about building with <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>React Native</strong>
+</h3>
 
 <p align="center">
-  👨‍💻 Passionate about building modern web & mobile apps with <strong>Next.js</strong>, <strong>React.js</strong>, <strong>React Native</strong>, and <strong>Node.js</strong>.
+  🧠 Lifelong learner | 🚀 Always exploring new tech
 </p>
-
 ---
 
 ### 🧰 Tech Stack
@@ -17,8 +18,8 @@ Main:
 [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
 - **Frontend**: React.js · Next.js · React Native · Tailwind CSS · TypeScript  
-- **Backend**: Node.js · Express.js · Supabase · Firebase · MongoDB · PostgreSQL  
-- **Tools**: Git · Docker · Vercel · AWS · Digitalocean · Postman · Figma · VSCode  
+- **Backend**: Node.js · Express.js · Laravel · Supabase · Firebase · MongoDB · PostgreSQL  
+- **Tools**: Git · Docker · Vercel · AWS · Digitalocean · Postman · VSCode · Twilio
 
 ---
 
@@ -37,6 +38,7 @@ Main:
 - 🔗 [**My Next.js Portfolio**](https://jaybecina-portfolio-gatsby.netlify.app) – Modern portfolio built with Gatsby.js, Tailwind CSS, and Framer Motion  
 - 📱 [**React Native Todo App**](https://github.com/jaybecina/react-native-notes-app) – Cross-platform app with local storage and animations  
 - 🧾 [**Node.js REST API**](https://github.com/jaybecina/node-prisma-supabase-todo-api) – Scalable boilerplate for RESTful APIs
+- 🧾 [**Laravel REST API**](http://github.com/jaybecina/todo-api-laravel-mid-level) – Scalable boilerplate for RESTful APIs 
 - 🧾 [**Node.js AI REST API**](https://github.com/jaybecina/phone_agent_ai_backend) – Scalable boilerplate for RESTful APIs using Huggingface AI
 - 🧾 [**React Native Todo App**](https://github.com/jaybecina/next-todo-frontend) – Frontend app using Next.js using standard technologies and packages
 
