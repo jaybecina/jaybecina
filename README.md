@@ -7,6 +7,7 @@
 <p align="center">
   🧠 Lifelong learner | 🚀 Always exploring new tech
 </p>
+
 ---
 
 ### 🧰 Tech Stack
