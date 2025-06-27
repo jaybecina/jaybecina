@@ -28,10 +28,11 @@ Main:
 
 - 🔗 [**My Website Portfolio**](https://jaybecina-portfolio-gatsby.netlify.app) – Modern portfolio built with Gatsby.js, Tailwind CSS, and Framer Motion  
 - 📱 [**React Native Todo App**](https://github.com/jaybecina/react-native-notes-app) – Cross-platform app with local storage and animations  
-- 🧾 [**Node.js REST API**](https://github.com/jaybecina/node-prisma-supabase-todo-api) – Scalable boilerplate for RESTful APIs
+- 🧾 [**Node.js Todo with Auth REST API**](https://github.com/jaybecina/node-prisma-supabase-todo-api) – Scalable boilerplate for RESTful APIs
 - 🧾 [**Laravel REST API**](http://github.com/jaybecina/todo-api-laravel-mid-level) – Scalable boilerplate for RESTful APIs 
 - 🧾 [**Node.js AI REST API**](https://github.com/jaybecina/phone_agent_ai_backend) – Scalable boilerplate for RESTful APIs using Huggingface AI
-- 🧾 [**React Native Todo App**](https://github.com/jaybecina/next-todo-frontend) – Frontend app using Next.js using standard technologies and packages
+- 🧾 [**Next Todo App with Auth**](https://github.com/jaybecina/next-todo-frontend) – Frontend app using Next.js using best technologies, practices and packages
+- 🧾 [**React Native Notes App**](https://github.com/jaybecina/react-native-notes-app) – Frontend app using React Native using best technologies, practices and packages
 
 ---
 
