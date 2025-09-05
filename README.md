@@ -33,6 +33,7 @@ Main:
 - 🧾 [**Node.js AI REST API**](https://github.com/jaybecina/phone_agent_ai_backend) – Scalable boilerplate for RESTful APIs using Huggingface AI
 - 🧾 [**Next Todo App with Auth**](https://github.com/jaybecina/next-todo-frontend) – Frontend app using Next.js using best technologies, practices and packages
 - 🧾 [**React Native Notes App**](https://github.com/jaybecina/react-native-notes-app) – Frontend app using React Native using best technologies, practices and packages
+- 🧾 [**React Native Habit Tracker App**](https://github.com/jaybecina/react-native-habit-tracker) – Frontend app using React Native using best technologies, practices and packages
 
 ---
 
