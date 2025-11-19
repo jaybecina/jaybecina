@@ -1,7 +1,7 @@
-<h1 align="center" style="font-family: Fira Code;">👋 Hey, I'm Jay — JavaScript Framework Enthusiast 💻</h1>
+<h1 align="center" style="font-family: Fira Code;">👋 Hey, I'm Jay — Software Developer 💻</h1>
 
 <h3 align="center">
-  Passionate about building with <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>React Native</strong>
+  Passionate about building with <strong>Fullstack Applications</strong> from <strong>Web Apps</strong> to <strong>Mobile Apps</strong>
 </h3>
 
 <p align="center">
