@@ -18,8 +18,8 @@ Main:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
-- **Frontend**: React.js · Next.js · React Native · Tailwind CSS · TypeScript  
-- **Backend**: Node.js · Express.js · Laravel · Supabase · Firebase · MongoDB · PostgreSQL  
+- **Frontend**: React.js · Next.js · React Native Expo · Vue.js · Tailwind CSS · Material UI  · TypeScript  
+- **Backend**: Node.js · Express.js · Laravel · Python · Ruby on Rails · Supabase · MongoDB · PostgreSQL  
 - **Tools**: Git · Docker · Vercel · AWS · Digitalocean · Postman · VSCode · Twilio
 
 ---
